@@ -692,7 +692,7 @@
     "name": "Rebel Operative",
     "id": 45,
     "ship": "HWK-290",
-    "skill": 2,
+    "skill": 11,
     "points": 16,
     "slots": [
       "Turret",
