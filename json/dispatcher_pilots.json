@@ -1,2 +1,17 @@
 [
+   {
+    "name": "Rebel Operative",
+    "id": 45,
+    "ship": "HWK-290",
+    "skill": 11,
+    "points": 16,
+    "slots": [
+      "Turret",
+      "Crew",
+      "ImpossibleTech"
+    ],
+    "image": "pilots/Rebel Alliance/HWK-290/rebel-operative.png",
+    "faction": "Rebel Alliance",
+    "xws": "rebeloperative"
+  }
 ]
