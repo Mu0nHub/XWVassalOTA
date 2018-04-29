@@ -1,2 +1,75 @@
 [
+  {
+    "name": "HWK-290",
+    "faction": [
+      "Rebel Alliance",
+      "Scum and Villainy"
+    ],
+    "attack": 3,
+    "agility": 3,
+    "hull": 5,
+    "shields": 2,
+    "actions": [
+      "Focus",
+      "Target Lock",
+      "Evade"
+    ],
+    "maneuvers": [
+      [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        2,
+        2,
+        2,
+        0
+      ],
+      [
+        1,
+        1,
+        2,
+        1,
+        1
+      ],
+      [
+        0,
+        2,
+        1,
+        2,
+        0
+      ],
+      [
+        0,
+        0,
+        2,
+        0,
+        0
+      ]
+    ],
+    "size": "small",
+    "xws": "hwk290",
+    "id": 8,
+    "firing_arcs": [
+      "Front"
+    ],
+    "dial": [
+      "1BG",
+      "1FG",
+      "1NG",
+      "2TW",
+      "2BW",
+      "2FG",
+      "2NW",
+      "2YW",
+      "3BR",
+      "3FW",
+      "3NR",
+      "4FR"
+    ]
+  }
 ]
