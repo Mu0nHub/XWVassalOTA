@@ -1,5 +1,10 @@
 [
   {
+    "slot": "ImpossibleTech",
+    "xws": "blackholepelletcannon",
+    "image": "Upgrade_ImpossibleTech_blackholepelletcannon.jpg"
+  }
+  {
     "slot": "Astromech",
     "xws": "back",
     "image": "Upgrade_Astromech_back.jpg"
