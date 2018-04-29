@@ -696,7 +696,8 @@
     "points": 16,
     "slots": [
       "Turret",
-      "Crew"
+      "Crew",
+      "ImpossibleTech"
     ],
     "image": "pilots/Rebel Alliance/HWK-290/rebel-operative.png",
     "faction": "Rebel Alliance",
