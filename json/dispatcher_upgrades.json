@@ -1,8 +1,8 @@
 [
   {
     "text": "Every ship in your arc extending to infinite range is removed from the game",
-    "name": "TEST",
-    "xws": "Black Hole Pellet Cannon",
+    "name": "Black Hole Pellet Cannon",
+    "xws": "blackholepelletcannon",
     "unique": true,
     "points": 0,
     "slot": "ImpossibleTech",
