@@ -1,5 +1,10 @@
 [
   {
+    "slot": "Modification",
+    "xws": "lowrider",
+    "image": "Upgrade_Modification_lowrider.jpg"
+  },
+  {
     "slot": "ImpossibleTech",
     "xws": "blackholepelletcannon",
     "image": "Upgrade_ImpossibleTech_blackholepelletcannon.jpg"
