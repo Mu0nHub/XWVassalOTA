@@ -1,5 +1,13 @@
 [
   {
+    "text": "Makes your ship really low, almost touching the streets of Neo Tokyo",
+    "name": "Low Rider",
+    "xws": "lowrider",
+    "unique": false,
+    "points": 0,
+    "slot": "Modification",
+  },
+  {
     "text": "Every ship in your arc extending to infinite range is removed from the game",
     "name": "Black Hole Pellet Cannon",
     "xws": "blackholepelletcannon",
