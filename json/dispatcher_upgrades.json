@@ -1,13 +1,11 @@
 [
   {
-    "text": "This is a test upgrade",
+    "text": "Every ship in your arc extending to infinite range is removed from the game",
     "name": "TEST",
-    "xws": "testupgrade",
+    "xws": "Black Hole Pellet Cannon",
     "unique": true,
     "points": 0,
-    "slot": "Salvaged Astromech",
-    "id": 354,
-    "image": "upgrades/Salvaged Astromech/r5-tk.png"
+    "slot": "ImpossibleTech",
   },
   {
     "text": "This is a test turret",
